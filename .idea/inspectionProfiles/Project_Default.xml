@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tests.book_now_page.Homework10" />
+          <option value="pages.book_page.Homework10" />
+          <option value="pages.date_picker.Homework10" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
